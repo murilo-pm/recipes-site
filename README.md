@@ -1,3 +1,20 @@
+### Screenshots
+
+If you want to have a full experience using the site, you can follow the steps below in order to run it on your own computer/laptop. Otherwise, if you just want a preview of it, you might just want to check some of the following screenshots.
+
+## Index page
+
+![image](https://user-images.githubusercontent.com/67028249/135671069-f554650c-7406-409b-8d01-8d2aa090e3cc.png)
+
+![image](https://user-images.githubusercontent.com/67028249/135671169-fee75bc4-6ed2-4e07-b5d3-5bf9b1d50848.png)
+
+## Recipe page
+
+![image](https://user-images.githubusercontent.com/67028249/135671257-cc04ba5f-ea27-49c3-bfdd-af081ed971f2.png)
+
+![image](https://user-images.githubusercontent.com/67028249/135670942-0e323dff-1b51-4bb8-8068-a2217b2716b1.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
